@@ -45,3 +45,8 @@ sockMerchant(n: 0, ar: [10, 20, 20, 10, 10, 30, 50, 10, 20]) // 3
 // ====== Dictionaries And Hashmaps ======= //
 
 checkMagazine(magazine: ["give", "me", "one", "grand", "today", "night"], note: ["give", "me", "one", "grand", "today"])
+
+
+// ====== wramup ======
+
+staircase(n: 10)
